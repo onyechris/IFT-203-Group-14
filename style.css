@@ -7,7 +7,7 @@
 body {
     font-family: 'Rajdhani', sans-serif;
     background:url("https://static.vecteezy.com/system/resources/thumbnails/057/224/995/small_2x/lone-tree-reflected-on-misty-lake-with-mountain-backdrop-serene-tranquil-scene-nature-s-quiet-beauty-in-muted-tones-of-blues-free-photo.jpg");
-    background-size: contain;
+    background-size: cover;
     color: #fff;
 }
 
@@ -142,10 +142,10 @@ section h2 {
 
 /* Footer */
 footer {
-    background: #4a597d;
+    background: #294380;
     color: #fff;
     text-align: center;
-    padding: 1rem;
+    padding: rem;
 }
 
 /* Responsive Typography */
